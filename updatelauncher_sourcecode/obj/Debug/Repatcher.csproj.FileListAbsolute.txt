@@ -1,0 +1,6 @@
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\bin\Debug\Repatcher.exe
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\bin\Debug\Repatcher.pdb
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\obj\Debug\Repatcher.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\obj\Debug\Repatcher.exe
+C:\Users\Minh\Desktop\ran_launcher\updatelauncher_sourcecode\obj\Debug\Repatcher.pdb

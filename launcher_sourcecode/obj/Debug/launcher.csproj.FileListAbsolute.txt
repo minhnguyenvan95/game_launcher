@@ -1,0 +1,8 @@
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\obj\Debug\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\obj\Debug\Resource1.resources
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\obj\Debug\launcher.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\bin\Debug\VNR_DaiThanh_Launch.exe
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\bin\Debug\VNR_DaiThanh_Launch.pdb
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\obj\Debug\VNR_DaiThanh_Launch.exe
+C:\Users\Minh\Desktop\ran_launcher\launcher_sourcecode\obj\Debug\VNR_DaiThanh_Launch.pdb
